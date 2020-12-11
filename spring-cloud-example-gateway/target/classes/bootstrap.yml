@@ -1,5 +1,0 @@
-spring:
-  cloud:
-    config:
-      name: spring-cloud-example-gateway #配置文件名称，多个通过逗号分隔
-      uri: http://localhost:8090 #Config Server服务地址
